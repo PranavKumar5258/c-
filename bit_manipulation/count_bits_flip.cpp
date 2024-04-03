@@ -4,7 +4,7 @@
  * [Count number of bits to be flipped to convert A to B]
  * (https://www.geeksforgeeks.org/count-number-of-bits-to-be-flipped-to-convert-a-to-b/)
  * in an integer.
- *
+
  * @details
  * We are given two numbers A and B. Our task is to count the number of bits
  * needed to be flipped to convert A to B.
